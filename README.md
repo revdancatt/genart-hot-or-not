@@ -1,2 +1,2 @@
-# getart-hot-or-not
+# genart-hot-or-not
 An attempt to ranking outputs of genart

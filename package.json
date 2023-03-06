@@ -1,0 +1,28 @@
+{
+  "name": "genart-hot-or-not",
+  "version": "0.0.1",
+  "description": "A tool to rank the output of art",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://revdancatt@github.com/revdancatt/genart-hot-or-not.git"
+  },
+  "keywords": [
+    "genart",
+    "genartclub",
+    "revdancatt"
+  ],
+  "author": "revdancatt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/revdancatt/genart-hot-or-not/issues"
+  },
+  "homepage": "https://github.com/revdancatt/genart-hot-or-not#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}
